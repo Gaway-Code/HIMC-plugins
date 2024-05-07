@@ -1,0 +1,19 @@
+drops:
+  diament:
+    chance: 2.0
+    exp: 9
+    points: 50
+    fortune: true
+    message: '&7Trafiles na: &6Diament &7({AMOUNT}szt) &b+{EXP}'
+    height:
+      min: 0
+      max: 25
+    amount:
+      min: 1
+      max: 1
+    drop:
+      what: DIAMOND
+      id: 0
+
+luckybox-drops: []
+cobblex-drops: []

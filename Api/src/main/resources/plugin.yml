@@ -1,0 +1,5 @@
+name: HiApi
+author: Gaway
+version: 2.0
+main: pl.himc.api.ApiPlugin
+description: 'API potrzebne do dzialania reszty pluginow'

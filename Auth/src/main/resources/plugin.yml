@@ -1,0 +1,4 @@
+name: HiAuth
+author: Name242
+version: 1.0
+main: pl.himc.auth.AuthPlugin

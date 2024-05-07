@@ -1,0 +1,25 @@
+motd:
+  motds:
+    - |-
+      &6&lHi&f&lCore&7&l.pl &8| &cTESTOWA EDYCJA JUZ NIEDLUGO!
+      &aDolacz na discorda: &6https://dc.hicore.pl
+    - |-
+      &6&lHi&f&lCore&7&l.pl &8| &cPracujemy nad serwerem!
+      &aDolacz na discorda: &6https://dc.hicore.pl
+  description:
+    - "&c&lTestowy"
+    - "&4&lOPIS"
+
+whitelist:
+  bungee:
+    enable: true
+    kickMessage: "&cSerwer jest aktualnie wylaczony."
+    list:
+      - nejmik242
+      - przemyslawww
+  megadrop:
+    enable: true
+    kickMessage: "&cSerwer jest aktualnie wylaczony."
+    list:
+      - nejmik242
+      - przemyslawww

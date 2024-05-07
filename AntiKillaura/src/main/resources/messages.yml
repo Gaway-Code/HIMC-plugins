@@ -1,0 +1,23 @@
+command:
+  error:
+    onlyPlayerExecute: "&cTylko gracz moze wykonac ta komende!"
+    playerHasPermission: "&8&l%> &4Nie posiadasz uprawnienia &c{PERM}&4!"
+  usage: "&8&l%> &7Uzycie komendy: &a{USAGE}"
+
+items:
+  noHasItems: "&8&l%> &cNie posiadasz wszystkich przedmiotow! &8(&7{ITEMS}&8)"
+
+teleport:
+  wait: "&8%> &7Teleportacja nastapi za &c{TIME} sekund&7!"
+  cancelMove: "&8%> &7Teleportacja zostala &4przerwana&7, poniewaz wykryto ruch!"
+  success: "&8%> &7Teleportacja &2powiodla sie&7!"
+
+title:
+  teleport:
+    success: "&6&lTELEPORTACJA"
+    wait: "&6&lTELEPORTACJA"
+
+subtitle:
+  teleport:
+    success: "&aTeleportacja powiodla sie!"
+    wait: "&aNastapi za &c{TIME}"

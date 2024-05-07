@@ -1,0 +1,5 @@
+name: HiSettings
+author: Gaway
+version: 2.0
+main: pl.himc.settings.SettingsPlugin
+depend: ['HiApi', 'HiCore', 'HiGuilds']

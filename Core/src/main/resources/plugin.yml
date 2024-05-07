@@ -1,0 +1,7 @@
+name: HiCore
+author: Gaway
+version: 2.2
+main: pl.himc.core.CorePlugin
+description: 'Wszystko w jednym pluginie'
+depend: ['HiApi']
+softdepend:  ['BungeeTabListPlus']

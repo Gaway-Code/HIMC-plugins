@@ -1,0 +1,10 @@
+servers:
+  megadrop:
+    item: BEACON
+    name: "&8* &7Serwer &2&lMEGA DROP &8*"
+    lore:
+      - "&8%> &7Tryb ten charakteryzuje sie wysokim % dropu przedmiotow z kamienia"
+      - "&8%> &7Wbijaj z ekipa i zakladaj gildie! Podbijaj inne gildie i badz TOP 1 w rankingu!"
+    serverconnector: "megadrop"
+    randomslot: true
+    slot: 0

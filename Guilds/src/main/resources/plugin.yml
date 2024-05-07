@@ -1,0 +1,7 @@
+name: HiGuilds
+author: Gaway
+version: 2.1
+main: pl.himc.guilds.GuildPlugin
+depend: ['HiApi']
+softdepend: ['BungeeTabListPlus', 'HolographicDisplays']
+description: 'Plugin na gildie'

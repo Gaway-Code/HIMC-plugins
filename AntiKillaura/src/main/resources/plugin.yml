@@ -1,0 +1,6 @@
+name: HiAntiKillaura
+main: pl.himc.antikillaura.AntiKillauraPlugin
+version: ALPHA-1.2
+author: Gaway
+description: 'Plugin na AntiKillaure'
+depend: ['HiApi', 'HiCore', 'ProtocolLib']

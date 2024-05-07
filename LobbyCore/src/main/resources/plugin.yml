@@ -1,0 +1,6 @@
+name: QLobbyCore
+author: Gaway
+version: 3.0
+main: pl.himc.lobbycore.LobbyPlugin
+description: "Core na serwer lobby pod wersje 1.8 - 1.16.x"
+depend: ['HiApi']

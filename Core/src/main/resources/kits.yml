@@ -1,0 +1,15 @@
+config:
+  kits:
+    start:
+      delay: 1800
+      item-in-gui: stone_sword
+      enable: true
+      items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2

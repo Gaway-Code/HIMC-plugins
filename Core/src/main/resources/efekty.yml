@@ -1,0 +1,34 @@
+gui-player:
+  speed-1m:
+    id: 'POTION'
+    data: 8194
+    name: '&7Efekt &9SPEED I &7na 1 m'
+    lore:
+      - '&7Koszt: 64 diaksy'
+    x: 1
+    y: 1
+    useEffect: true
+    effect:
+      item: DIAMOND
+      data: 0
+      amount: 64
+      effect: 'SPEED'
+      duration: 1
+      amplifier: 0
+gui-vip:
+  speed-1m:
+    id: 'POTION'
+    data: 8194
+    name: '&7Efekt &9SPEED I &7na 1 m'
+    lore:
+      - '&7Koszt: 64 bloki zlota'
+    x: 1
+    y: 1
+    useEffect: true
+    effect:
+      item: GOLD_BLOCK
+      data: 0
+      amount: 64
+      effect: 'SPEED'
+      duration: 1
+      amplifier: 0
