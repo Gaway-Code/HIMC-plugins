@@ -16,7 +16,7 @@ public class FancyBook {
     private final String title;
     private final String author;
 
-    private ArrayList<FancyBookPage> pages = new ArrayList<>();
+    private final ArrayList<FancyBookPage> pages = new ArrayList<>();
 
     public FancyBook(String title, String author) {
         this.title = title;

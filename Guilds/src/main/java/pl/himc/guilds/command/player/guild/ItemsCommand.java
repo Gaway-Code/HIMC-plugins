@@ -56,7 +56,6 @@ public class ItemsCommand extends PlayerCommand {
         }
 
         book.addPage(page1);
-        book.openBook(player);
         return false;
     }
 }

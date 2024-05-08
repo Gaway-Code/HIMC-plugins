@@ -1,6 +1,6 @@
 package pl.himc.api.utils;
 
-import org.apache.commons.lang3.Validate;
+import org.apache.commons.lang.Validate;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
